@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Frontend Developer | React Enthusiast | UI/UX Explorer<br>💻 Passionate about building modern, responsive, and user-friendly web interfaces<br>⚡ Skilled in React.js, JavaScript, HTML, CSS, and Tailwind CSS<br>🔧 Love optimizing performance and creating sleek UI/UX designs<br>📌 Always learning and experimenting with new web technologies<br>🌍 Open to collaboration and exciting projects!<br><br><br><br><br><br><br><br>
-
+🚀 Frontend Developer | React Enthusiast | UI/UX Explorer<br>💻 Passionate about building modern, responsive, and user-friendly web interfaces<br>⚡ Skilled in React.js, JavaScript, HTML, CSS, and Tailwind CSS<br>🔧 Love optimizing performance and creating sleek UI/UX designs<br>📌 Always learning and experimenting with new web technologies<br>🌍 Open to collaboration and exciting projects!<br><br><br><br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/way2nitinn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinjr812@gmail.com) 
